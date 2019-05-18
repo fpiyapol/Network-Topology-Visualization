@@ -10,7 +10,6 @@ Home page
 <img src="./img/Topology_Screenshot.png">
 Topology page
 </p>
-<br>
 
 ---
 
